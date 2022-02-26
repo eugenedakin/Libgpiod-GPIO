@@ -28,6 +28,8 @@ The initial and starting declares used to work with the GPIO on Raspberry Pi 4,
 with Xojo 2022 r1.1, with the Raspberry Pi Operating System, and uses the
 Libgpio library that is sepearately installed onto the Raspberry Pi operating system. 
 As the writing of the book progresses, so will the versions of this method. 
+
+V1.0 (26 Feb 2022)
  - Wrote gpiod_chip_open
  - Wrote gpoid_chip_open_by_name
  - Wrote gpiod_line_request_output
