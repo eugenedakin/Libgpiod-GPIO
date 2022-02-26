@@ -25,7 +25,7 @@ The book is currently being written as of Feb 2022.
 
 V 1.0 26 Feb 2022 Edition (5.0)
 The initial and starting declares used to work with the GPIO on Raspberry Pi 4, 
-with Xojo 2022 r1.1, with the Raspberry Pi Operating System, and uses the
+with Xojo 2021 r3.1, with the Raspberry Pi Operating System, and uses the
 Libgpio library that is sepearately installed onto the Raspberry Pi operating system. 
 As the writing of the book progresses, so will the versions of this method. 
 
