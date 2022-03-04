@@ -74,3 +74,11 @@ v1.1 (27 Feb 2022)
  - Added GPIOD_BIT Function 
  - Added gpiod_line_request_input
  - Added gpiod_line_get_value
+
+Updated v1.2 (4 Mar 2022)
+
+ - Added comments to gpiod_line_request_output
+ - Added gpiod_line_request_output_flags
+ - Changed gpiod_line_request_output third parameter for On and Off
+ - Added gpiod_line_request_input_flags
+ - Added gpiod_line_set_flags
