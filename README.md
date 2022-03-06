@@ -1,4 +1,8 @@
 # Libgpiod-GPIO
+Creation of a book for this library has been postponed until the library has increased
+functions, such as PWM and other commands. An alternative is to use the lgpio library 
+at: https://github.com/eugenedakin/lgpio-GPIO
+
 Raspberry Pi Libgpio for the Raspberry Pi 4 B with Xojo API 2
 
 Created 26 Feb 2022: sysfs functions on the Raspberry Pi are being deprecated and the newer
